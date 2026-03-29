@@ -3,13 +3,13 @@ A simple Python-based AI assistant that executes tasks through voice commands. T
 
 The modules used in the project are as follows:
 
-pyttsx3 module Python text-to-speech module
-datetime module for getting date and time
-speech_recognition module For SpeechRecognition using google
-wikipedia module for searching wikipedia
-webbrowser module for web based search on a browser(usually chrome)
-os module for getting operating system functions
-smtplib module for sending the E-Mail
-pyjokes module for getting jokes
-pyautogui module for performing GUI based functions like taking screenshot
-psutil module for getting CPU and battery status
+1. pyttsx3 module Python text-to-speech module
+2. datetime module for getting date and time
+3. speech_recognition module For SpeechRecognition using google
+4. wikipedia module for searching wikipedia
+5. webbrowser module for web based search on a browser(usually chrome)
+6. OS module for getting operating system functions
+7. smtplib module for sending the E-Mail
+8. pyjokes module for getting jokes
+9. pyautogui module for performing GUI based functions like taking screenshot
+10. psutil module for getting CPU and battery status
