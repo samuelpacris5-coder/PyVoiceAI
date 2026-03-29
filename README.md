@@ -1,15 +1,55 @@
-# PyVoiceAI
-A simple Python-based AI assistant that executes tasks through voice commands. This project is currently under development, with more intelligent features and capabilities planned for future releases.
+# 🎙️ PyVoiceAI - Python Voice Assistant
 
-The modules used in the project are as follows:
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Under%20Development-yellow)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-1. pyttsx3 module Python text-to-speech module
-2. datetime module for getting date and time
-3. speech_recognition module For SpeechRecognition using google
-4. wikipedia module for searching wikipedia
-5. webbrowser module for web based search on a browser(usually chrome)
-6. OS module for getting operating system functions
-7. smtplib module for sending the E-Mail
-8. pyjokes module for getting jokes
-9. pyautogui module for performing GUI based functions like taking screenshot
-10. psutil module for getting CPU and battery status
+---
+
+## 📌 Description
+**PyVoiceAI** is a simple Python-based AI voice assistant that performs tasks through voice commands.  
+It is designed to automate everyday computer activities such as searching the web, telling time, sending emails, and more.
+
+🚧 This project is currently under development, with more intelligent features and capabilities planned for future releases.
+
+---
+
+## 🚀 Features
+- 🎤 Voice command recognition  
+- 🔊 Text-to-speech responses  
+- 🌐 Web search automation  
+- 📖 Wikipedia search integration  
+- 📅 Date and time retrieval  
+- 📧 Email sending functionality  
+- 😂 Random joke generator  
+- 🖥️ System operations (OS commands)  
+- 📸 Screenshot capture  
+- 🔋 CPU and battery status monitoring  
+
+---
+
+## 🛠️ Tech Stack & Modules Used
+
+- **pyttsx3** → Text-to-speech engine  
+- **speech_recognition** → Voice recognition using Google API  
+- **datetime** → Date and time handling  
+- **wikipedia** → Search and fetch information  
+- **webbrowser** → Open websites in browser  
+- **os** → Operating system interactions  
+- **smtplib** → Sending emails  
+- **pyjokes** → Generate jokes  
+- **pyautogui** → GUI automation (screenshots, actions)  
+- **psutil** → System and hardware monitoring  
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/pyvoiceai.git
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/pyvoiceai.git
